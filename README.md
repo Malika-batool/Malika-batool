@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Malika 👋
 
-<!--
-**Malika-batool/Malika-batool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Student | 🤖 ML Enthusiast | 🌟 Curious Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm currently pursuing my Bachelor's in Artificial Intelligence, and I'm passionate about building intelligent, creative, and impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+- 
+
+## 🌱 Currently Learning
+- 
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/malika-e-batool)  
+- 📧 Email: malikab00011@gmail.com
+
+## 📊 GitHub Stats
+![Malika's GitHub Stats]()
